@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lucy80
 - 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on dont know yet
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on real world based project
 - 📫 How to reach me 
 
 <!---
